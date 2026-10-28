@@ -1,0 +1,93 @@
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.exe
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.dll.config
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.deps.json
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.runtimeconfig.json
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.dll
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.pdb
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\Theme\DarkTheme.baml
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\Theme\Default.baml
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF_MarkupCompile.cache
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF_MarkupCompile.lref
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.g.resources
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.AssemblyInfoInputs.cache
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.AssemblyInfo.cs
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.csproj.CoreCompileInputs.cache
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.sourcelink.json
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.dll
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\refint\KachalinSemen_PRAK6_WPF.dll
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.pdb
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.genruntimeconfig.cache
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\ref\KachalinSemen_PRAK6_WPF.dll
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\RadioButton.baml
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\TextBlock.baml
+C:\Users\st310-04\Music\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\CheckBox.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.exe
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.dll.config
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.deps.json
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.runtimeconfig.json
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.dll
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.pdb
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\Theme\DarkTheme.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\Theme\Default.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\CheckBox.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\RadioButton.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\TextBlock.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF_MarkupCompile.cache
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF_MarkupCompile.lref
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.g.resources
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.AssemblyInfoInputs.cache
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.AssemblyInfo.cs
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.csproj.CoreCompileInputs.cache
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.dll
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\refint\KachalinSemen_PRAK6_WPF.dll
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.pdb
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.genruntimeconfig.cache
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\ref\KachalinSemen_PRAK6_WPF.dll
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Kachalin.EF80947F.Up2Date
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\ComboBox.baml
+C:\Users\fasta\OneDrive\Рабочий стол\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\ProcessBar.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.exe
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.dll.config
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.deps.json
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.runtimeconfig.json
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.dll
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\bin\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.pdb
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\Theme\DarkTheme.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\Theme\Default.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\CheckBox.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\ComboBox.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\ProcessBar.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\RadioButton.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\TextBlock.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF_MarkupCompile.cache
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF_MarkupCompile.lref
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.g.resources
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.AssemblyInfoInputs.cache
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.AssemblyInfo.cs
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.csproj.CoreCompileInputs.cache
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.sourcelink.json
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.dll
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\refint\KachalinSemen_PRAK6_WPF.dll
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.pdb
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\KachalinSemen_PRAK6_WPF.genruntimeconfig.cache
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\ref\KachalinSemen_PRAK6_WPF.dll
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\TextBlocksAll.baml
+C:\Users\st310-04\Downloads\KachalinSemen_PRAK6_WPF (1)\KachalinSemen_PRAK6_WPF\obj\Debug\net8.0-windows\Styles\UI\Wrappanel.baml

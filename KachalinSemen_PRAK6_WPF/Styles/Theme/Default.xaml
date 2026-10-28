@@ -1,0 +1,18 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="ButtonBackground" Color="#52c465"/>
+    <SolidColorBrush x:Key="ButtonHover" Color="#1ee37d"/>
+    <SolidColorBrush x:Key="ButtonPressed" Color="#83de92"/>
+    <SolidColorBrush x:Key="ButtonForeground" Color="#616161"/>
+    <SolidColorBrush x:Key="ButtonBorder" Color="#02bfa6"/>
+    <SolidColorBrush x:Key="LabelTextColor" Color="#72859c"/>
+    <SolidColorBrush x:Key="RadioButtonIsCheked" Color="#b5bf28"/>
+    <SolidColorBrush x:Key="RadioButtonTextColor" Color="#90917d"/>
+    <SolidColorBrush x:Key="WindowColor" Color="#7dfa57"/>
+    <SolidColorBrush x:Key="TextBlockEnabled" Color="#6d9c5f"/>
+    <SolidColorBrush x:Key="TextBlockNoEnabled" Color="#e33d6f"/>
+    <SolidColorBrush x:Key="CheckBoxEnabled" Color="#1a90d9"/>
+    <SolidColorBrush x:Key="CheckBoxNoEnabled" Color="#0c3a57"/>
+    <SolidColorBrush x:Key="ProcessBarGood" Color="#64a658"/>
+    <SolidColorBrush x:Key="ProcessBarNoGood" Color="#a65876"/>
+</ResourceDictionary>

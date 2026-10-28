@@ -1,0 +1,25 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="WrapPanel" x:Key="FirstWrapPanel">
+        <Setter Property="Width" Value="400"/>
+        <Setter Property="Height" Value="40"/>
+        <Setter Property="VerticalAlignment" Value="Top"/>
+
+    </Style>
+    <Style TargetType="WrapPanel" x:Key="FirstWrapPanel2" BasedOn="{StaticResource FirstWrapPanel}">
+        <Setter Property="Width" Value="100"/>
+        <Setter Property="Height" Value="240"/>
+        <Setter Property="Orientation" Value="Vertical"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+    </Style>
+    <Style TargetType="WrapPanel" x:Key="FirstWrapPanel3" BasedOn="{StaticResource FirstWrapPanel2}">
+        <Setter Property="Width" Value="300"/>
+    </Style>
+    <Style TargetType="WrapPanel" x:Key="FirstWrapPanel4">
+        <Setter Property="Orientation" Value="Horizontal"/>
+    </Style>
+    <Style TargetType="WrapPanel" x:Key="FirstWrapPanel5" BasedOn="{StaticResource FirstWrapPanel2}">
+        <Setter Property="Grid.Column" Value="1"/>
+        <Setter Property="Width" Value="400"/>
+    </Style>
+</ResourceDictionary>
